@@ -102,3 +102,20 @@ BrightPath-Tutoring/
 ├── images/
 │
 └── README.md
+
+References
+GitHub Docs. (2026). About README files.
+Available at:
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+GitHub Docs. (2026). Managing your profile README.
+Available at:
+https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+Mozilla Developer Network (MDN). (n.d.). HTML: HyperText Markup Language.
+Available at:
+https://developer.mozilla.org/en-US/docs/Web/HTML
+Mozilla Developer Network (MDN). (n.d.). CSS: Cascading Style Sheets.
+Available at:
+https://developer.mozilla.org/en-US/docs/Web/CSS
+Mozilla Developer Network (MDN). (n.d.). JavaScript.
+Available at:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
