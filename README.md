@@ -103,7 +103,10 @@ BrightPath-Tutoring/
 │
 └── README.md
 
-References
+
+
+
+## References
 GitHub Docs. (2026). About README files.
 Available at:
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
