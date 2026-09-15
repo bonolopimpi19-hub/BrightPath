@@ -103,7 +103,117 @@ BrightPath-Tutoring/
 │
 └── README.md
 
+# BrightPath Tutoring Centre
 
+## Project Overview
+
+BrightPath Tutoring Centre is a responsive educational website designed to provide learners and parents with information about tutoring services and academic support.
+
+The website aims to create a professional, user-friendly online presence for BrightPath Tutoring Centre. It provides information about the centre, available tutoring services, tutors and contact details.
+
+## Project Objectives
+
+The main objectives of the BrightPath Tutoring Centre website are to:
+
+- Provide information about BrightPath Tutoring Centre.
+- Display the tutoring services offered.
+- Introduce tutors and their areas of expertise.
+- Provide an easy way for learners and parents to make enquiries.
+- Create a professional and responsive website.
+- Improve the overall user experience through clear navigation and attractive design.
+
+## Technologies Used
+
+The following technologies were used to develop the website:
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
+- Visual Studio Code
+
+## Website Pages
+
+The website consists of the following pages:
+
+### Home
+The Home page introduces BrightPath Tutoring Centre and provides an overview of the services offered.
+
+### About
+The About page provides information about the tutoring centre, its purpose, mission and values.
+
+### Services
+The Services page displays the different academic support services provided by BrightPath, including:
+
+- Individual Tutoring
+- Small Group Classes
+- Exam Preparation
+
+### Tutors
+The Tutors page provides information about the tutors and their areas of expertise.
+
+### Contact
+The Contact page allows learners and parents to contact BrightPath Tutoring Centre for enquiries and additional information.
+
+## Website Structure
+
+```text
+BrightPath/
+│
+├── index.html
+├── about.html
+├── services.html
+├── tutors.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+└── js/
+    └── script.js
+
+Developed additional website pages.
+Added professional CSS styling.
+Improved the website navigation.
+Added responsive design for different screen sizes.
+Added service cards for tutoring services.
+Added call-to-action sections.
+Improved the overall visual appearance of the website.
+Created and included a website sitemap.
+Improved the consistency of the website layout.
+Updated the README documentation.
+Continued development using GitHub version control.
+Changelog
+Version 2.0 – Part 2
+
+New Features
+
+Added About page.
+Added Services page.
+Added Tutors page.
+Added Contact page.
+Added responsive CSS styling.
+Added service cards.
+Added hover effects.
+Added responsive navigation.
+Added call-to-action buttons.
+Added sitemap.
+
+Improvements
+
+Improved website layout and spacing.
+Improved typography.
+Improved navigation between pages.
+Improved mobile responsiveness.
+Improved the overall professional appearance of the website.
+
+Feedback Changes from Part 1
+
+Improved website navigation based on feedback.
+Improved the visual presentation of the website.
+Added clearer service information.
+Improved consistency between website pages.
+Added responsive styling to improve usability on different devices.
 
 
 ## References
@@ -122,3 +232,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 Mozilla Developer Network (MDN). (n.d.). JavaScript.
 Available at:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+W3Schools (2026) HTML Tutorial. Available at: https://www.w3schools.com/html/
+W3Schools (2026) CSS Tutorial. Available at: https://www.w3schools.com/css/
+MDN Web Docs (2026) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
+MDN Web Docs (2026) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
+GitHub (2026) GitHub Documentation. Available at: https://docs.github.com/
