@@ -172,6 +172,23 @@ BrightPath/
 └── js/
     └── script.js
 
+SITEMAP
+                    BrightPath Tutoring Centre
+                              |
+                            Home
+                              |
+             ┌────────────────┼────────────────┐
+             |                |                |
+           About           Services          Tutors
+                              |
+                 ┌────────────┼────────────┐
+                 |            |            |
+             Individual     Small Group    Exam
+              Tutoring        Classes    Preparation
+                             
+                              |
+                           Contact
+
 Developed additional website pages.
 Added professional CSS styling.
 Improved the website navigation.
