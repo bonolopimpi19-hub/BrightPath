@@ -232,6 +232,46 @@ Added clearer service information.
 Improved consistency between website pages.
 Added responsive styling to improve usability on different devices.
 
+### Images and Visual Content
+
+The website includes images and visual elements to improve its appearance, communicate information clearly and create a more engaging user experience.
+
+- **Homepage Image:** Added a classroom photograph to the home page to support the introduction to BrightPath Tutoring Centre.
+- **Subject Images:** Added illustrations for Mathematics, English, Physical Sciences, Life Sciences, Accounting and Exam Preparation on the Services page.
+- **Tutor Portraits:** Added photographic portraits from Unsplash to the Tutors page to make tutor profiles more visually appealing. These are stock images used as placeholders and do not necessarily represent actual BrightPath tutors.
+- **Responsive Images:** Images are sized to fit different screen sizes, helping maintain a consistent layout on desktop, tablet and mobile devices.
+- **Accessibility:** Added alternative text to images to help users understand their content when images cannot be displayed and to support assistive technologies.
+- **Image Organisation:** Stored the subject illustrations and other local image assets in the website's `Assets` directory for easier organisation and maintenance.
+
+These visual improvements help create a more professional, attractive and user-friendly website.
+
+BrightPath/
+│
+├── index.html
+├── about.html
+├── services.html
+├── tutors.html
+├── contact.html
+│
+├── CSS/
+│   └── style.css
+│
+├── Assets/
+│   ├── subjects/
+│   │   ├── mathematics.svg
+│   │   ├── english.svg
+│   │   ├── physical-sciences.svg
+│   │   ├── life-sciences.svg
+│   │   ├── accounting.svg
+│   │   └── exam-prep.svg
+│   │
+│   └── tutors/
+│       ├── tutor-amara.svg
+│       ├── tutor-james.svg
+│       └── tutor-zanele.svg
+│
+└── README.md
+
 
 ## References
 GitHub Docs. (2026). About README files.
